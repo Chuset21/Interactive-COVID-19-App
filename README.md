@@ -1,6 +1,7 @@
 # Interactive COVID-19 App  
 
-A group project made with the help of 3 colleagues with the goal of building an interactive visualization of a dataset of COVID-19 cases by geographic area.  
+A group project made with the help of 3 college colleagues in Processing, a Java based language which provides a free graphical library.  
+**Goal of project**: Building an interactive visualization of a dataset of COVID-19 cases by geographic area.  
 
 ## Installing dependencies  
 
