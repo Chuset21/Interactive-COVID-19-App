@@ -11,4 +11,8 @@ Unzip these files into this directory: ***Documents -> Processing -> libraries**
 
 ## Using the Application
 
-To go back to the main screen when running the program click the right mouse button.
+To go back to the main screen when running the program click the right mouse button.  
+
+## Viewing a showcase of the Application
+
+If you would like to see a showcase of the application, download [this file](https://github.com/Chuset21/Interactive-COVID-19-App/blob/main/Showcase.mkv)
